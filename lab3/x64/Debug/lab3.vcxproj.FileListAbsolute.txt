@@ -1,0 +1,2 @@
+C:\cg\lab3\x64\Debug\lab3.exe
+C:\cg\lab3\x64\Debug\lab3.pdb
